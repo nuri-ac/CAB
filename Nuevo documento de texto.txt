@@ -1,0 +1,17 @@
+DCP1: Implement/Config_wbs_add_implement/top_route_design.dcp
+  Number of reconfigurable modules compared = 1
+  Number of partition pins compared         = 0
+  Number of static tiles compared           = 1020
+  Number of static sites compared           = 103
+  Number of static cells compared           = 566
+  Number of static routed nodes compared    = 7226
+  Number of static routed pips compared     = 6703
+
+DCP2: Implement/Config_wbs_mult_import/top_route_design.dcp
+  Number of reconfigurable modules compared = 1
+  Number of partition pins compared         = 0
+  Number of static tiles compared           = 1020
+  Number of static sites compared           = 103
+  Number of static cells compared           = 566
+  Number of static routed nodes compared    = 7226
+  Number of static routed pips compared     = 6703
